@@ -11,3 +11,7 @@
     <img src="https://i.gifer.com/Q568.gif" alt="mew gif" width="120" />
   </a>
 </p>
+
+<p align="center">
+  <span style="font-size:18px;">𝓼𝓲𝓰𝓷 𝓪𝓽𝓪!</span><br>
+  <span style="font-size:14px;">𝓬𝓵𝓲𝓬𝓴 𝓸𝓷 𝓶𝓮𝔀</span><br><br>
