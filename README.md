@@ -15,3 +15,13 @@
 <p align="center">
   <span style="font-size:18px;">𝓼𝓲𝓰𝓷 𝓪𝓽𝓪!</span><br>
   <span style="font-size:14px;">𝓬𝓵𝓲𝓬𝓴 𝓸𝓷 𝓶𝓮𝔀</span><br><br>
+
+  <p align="left">
+  <a href="https://wanderingfellow.straw.page">
+    <img src="https://i.pinimg.com/originals/43/f8/7b/43f87bf85fd8ec237f5ce8af1634692f.gif" width="200"/>
+  </a>
+</p>
+
+<p align="left">
+  <sub>click me!</sub>
+</p>
