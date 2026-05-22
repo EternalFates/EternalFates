@@ -23,5 +23,6 @@
 </p>
 
 <p align="left">
-  <sub>click me!</sub>
+  <sub>𝓢𝓽𝓻𝓪𝔀 𝓟𝓪𝓰𝓮 !
+</sub>
 </p>
