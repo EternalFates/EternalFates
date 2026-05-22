@@ -19,10 +19,6 @@
   <p align="left">
   <a href="https://wanderingfellow.straw.page">
     <img src="https://i.pinimg.com/originals/43/f8/7b/43f87bf85fd8ec237f5ce8af1634692f.gif" width="200"/>
-  </a>
-</p>
-
-<p align="left">
-  <sub>𝓢𝓽𝓻𝓪𝔀 𝓟𝓪𝓰𝓮 !
-</sub>
+  </a><br>
+  <sub>𝓢𝓽𝓻𝓪𝔀 𝓟𝓪𝓰𝓮 !</sub>
 </p>
