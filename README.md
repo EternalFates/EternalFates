@@ -18,7 +18,7 @@
 
   <p align="left">
   <a href="https://wanderingfellow.straw.page">
-    <img src="https://media.tenor.com/8PlnT9rtCScAAAAj/mew-pokemon.gif" width="200"/>
+    <img src="https://media.tenor.com/8PlnT9rtCScAAAAj/mew-pokemon.gif" width="100"/>
   </a><br>
           <sub>𝓢𝓽𝓻𝓪𝔀 𝓟𝓪𝓰𝓮 !</sub>
 </p>
